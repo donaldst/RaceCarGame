@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="7" useXmlUI="false">
+    <image name="back-command.png" type="multi"  />
+    <image name="border.png"  />
+    <image name="Button.borderBottom_3.png" type="multi"  />
+    <image name="Button.borderBottomL_3.png" type="multi"  />
+    <image name="Button.borderBottomR_3.png" type="multi"  />
+    <image name="Button.borderCenter_3.png" type="multi"  />
+    <image name="Button.borderLeft_3.png" type="multi"  />
+    <image name="Button.borderRight_3.png" type="multi"  />
+    <image name="Button.borderTop_3.png" type="multi"  />
+    <image name="Button.borderTopL_3.png" type="multi"  />
+    <image name="Button.borderTopR_3.png" type="multi"  />
+    <image name="Button.press#borderBottom_1.png" type="multi"  />
+    <image name="Button.press#borderBottomL_1.png" type="multi"  />
+    <image name="Button.press#borderBottomR_1.png" type="multi"  />
+    <image name="Button.press#borderCenter_1.png" type="multi"  />
+    <image name="Button.press#borderLeft_1.png" type="multi"  />
+    <image name="Button.press#borderRight_1.png" type="multi"  />
+    <image name="Button.press#borderTop_1.png" type="multi"  />
+    <image name="Button.press#borderTopL_1.png" type="multi"  />
+    <image name="Button.press#borderTopR_1.png" type="multi"  />
+    <image name="cal_left_arrow.png" type="multi"  />
+    <image name="cal_right_arrow.png" type="multi"  />
+    <image name="Check-Box_Normal.png" type="multi"  />
+    <image name="Check-Box_Press.png" type="multi"  />
+    <image name="combo.png" type="multi"  />
+    <image name="ComboBox.borderBottom_1.png" type="multi"  />
+    <image name="Dialog.borderBottom_1.png" type="multi"  />
+    <image name="Dialog.borderBottomL_1.png" type="multi"  />
+    <image name="Dialog.borderBottomR_1.png" type="multi"  />
+    <image name="Dialog.borderCenter_1.png" type="multi"  />
+    <image name="Dialog.borderLeft_1.png" type="multi"  />
+    <image name="Dialog.borderRight_1.png" type="multi"  />
+    <image name="Dialog.borderTop_1.png" type="multi"  />
+    <image name="Dialog.borderTopL_1.png" type="multi"  />
+    <image name="Dialog.borderTopR_1.png" type="multi"  />
+    <image name="img_bgr_side_bar_title.png"  />
+    <image name="img_bgr_tile.png"  />
+    <image name="Menu.borderBottom_1.png" type="multi"  />
+    <image name="Menu.borderBottomL_1.png" type="multi"  />
+    <image name="Menu.borderBottomR_1.png" type="multi"  />
+    <image name="Menu.borderCenter_1.png" type="multi"  />
+    <image name="Menu.borderLeft_1.png" type="multi"  />
+    <image name="Menu.borderRight_1.png" type="multi"  />
+    <image name="Menu.borderTop_1.png" type="multi"  />
+    <image name="Menu.borderTopL_1.png" type="multi"  />
+    <image name="Menu.borderTopR_1.png" type="multi"  />
+    <image name="Radio_btn_Normal.png" type="multi"  />
+    <image name="Radio_btn_Press.png" type="multi"  />
+    <image name="Slider.borderTop_2.png_veryHigh.png" type="multi"  />
+    <image name="Slider.borderTop_2.png_veryHigh_FULL.png" type="multi"  />
+    <image name="Slider.borderTopL_2.png_veryHigh.png" type="multi"  />
+    <image name="Slider.borderTopL_2.png_veryHigh_FULL.png" type="multi"  />
+    <image name="Slider.borderTopR_2.png_veryHigh.png" type="multi"  />
+    <image name="Slider.borderTopR_2.png_veryHigh_FULL.png" type="multi"  />
+    <image name="switch_mask.png" type="multi"  />
+    <image name="switch_off.png" type="multi"  />
+    <image name="switch_on.png" type="multi"  />
+    <image name="TextField.borderBottom_1.png" type="multi"  />
+    <image name="TextField.borderBottomL_1.png" type="multi"  />
+    <image name="TextField.borderBottomR_1.png" type="multi"  />
+    <image name="TextField.borderCenter_1.png" type="multi"  />
+    <image name="TextField.borderLeft_1.png" type="multi"  />
+    <image name="TextField.borderRight_1.png" type="multi"  />
+    <image name="TextField.borderTop_1.png" type="multi"  />
+    <image name="TextField.borderTopL_1.png" type="multi"  />
+    <image name="TextField.borderTopR_1.png" type="multi"  />
+    <theme name="Theme 1">
+        <val key="@includeNativeBool" value="true" />
+    </theme>
+</resource>
